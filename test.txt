@@ -1,1 +1,4 @@
-firstgitµÚÒ»
+firstgitï¿½ï¿½Ò»
+
+
+git commit -a
