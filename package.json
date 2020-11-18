@@ -1,0 +1,11 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:KilFront/git.git",
+  "author": "聂开发 <niekaifa@apowo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "module-test": "git+ssh://git@github.com:KilFront/module-test.git#master"
+  }
+}
