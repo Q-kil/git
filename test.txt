@@ -2,3 +2,7 @@ firstgit��һ
 
 
 git commit -a
+
+develop ing...
+
+develop success
